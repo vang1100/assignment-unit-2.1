@@ -90,7 +90,7 @@ console.log('result should say "how about we stay home":', result);
 //      set `diceRoll` to be "Roll the dice!"
 //      Console log the value of `diceRoll`
 
-let diceRoll = 'Try again later';
+let diceRoll = "Try again later.";
 
 if (luckyNumber === 2 && adventurous === true){
   diceRoll = "Roll the dice!"
