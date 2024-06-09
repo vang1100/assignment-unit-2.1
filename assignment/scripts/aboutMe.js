@@ -30,6 +30,10 @@ console.log('this is my lucky number:', luckyNumber);
 //     Refer back to the videos if you need help with this one.
 //     Console log the value of `introduction`
 
+let introduction = 'My name is' + ' ' + fullName + ', ' + 'and I think' + ' ' + luckyNumber + ' ' + 'is a winner!';
+
+console.log('introduction:', introduction);
+
 // 6 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 //     Console log the value of `adventurous`
 
