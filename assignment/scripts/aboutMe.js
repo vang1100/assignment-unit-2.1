@@ -44,6 +44,9 @@ console.log('should show false for adventurous', adventurous);
 // 7 - Create a variable named `food`, and set its value to a string of your favorite food
 //     Console log the value of `food`
 
+let food = 'sushi';
+console.log('my favorite food is', food);
+
 // 8 - Create a variable called `pets` and set it to the value of the number of pets you have
 //     Console log the value of `pets`
 
